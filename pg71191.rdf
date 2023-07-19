@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/71191">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-14</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/5648">
+        <pgterms:name>Huygens, Christiaan</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1629</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1695</pgterms:deathdate>
+        <pgterms:alias>Huyghens, Christian</pgterms:alias>
+        <pgterms:alias>Zuylichem, Christian Huygens van</pgterms:alias>
+        <pgterms:alias>Hugenius, Christianus</pgterms:alias>
+        <pgterms:alias>Huygens, Christianus</pgterms:alias>
+        <pgterms:alias>Zuilichemius, Christianus Hugenius</pgterms:alias>
+        <pgterms:alias>Hugens, Christian</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Christiaan_Huygens"/>
+        <pgterms:webpage rdf:resource="https://nl.wikipedia.org/wiki/Christiaan_Huygens"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <marcrel:edt>
+      <pgterms:agent rdf:about="2009/agents/3780">
+        <pgterms:name>Huygens, Constantijn</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1596</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1687</pgterms:deathdate>
+        <pgterms:alias>Hvigens, Constantyn</pgterms:alias>
+        <pgterms:alias>Huigens, H. C. (H. Constantijn)</pgterms:alias>
+        <pgterms:alias>Hujgens, Constantin</pgterms:alias>
+        <pgterms:alias>Huygens, Konstantyn</pgterms:alias>
+        <pgterms:alias>Huygens, Constantijn, Heer van Zuilichem</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://nl.wikipedia.org/wiki/Constantijn_Huygens"/>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Constantijn_Huygens"/>
+      </pgterms:agent>
+    </marcrel:edt>
+    <dcterms:title>The celestial worlds discover'd : $b or, conjectures concerning the inhabitants, plants and productions of the worlds in the planets</dcterms:title>
+    <pgterms:marc260>  $aUnited Kingdom :$bJames Knapton, $c1722.</pgterms:marc260>
+    <pgterms:marc508>Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/b30537009_0001/page/n3/mode/2up</pgterms:marc904>
+    <pgterms:marc905>20201021114216huygens</pgterms:marc905>
+    <pgterms:marc906>1722</pgterms:marc906>
+    <pgterms:marc907>GB</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N9debbd584029412aadd33712dcf4809b">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71191/71191-h/71191-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/71191"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245237</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-14T18:00:03</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc98d8361fb814584b40f1b871f606533">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71191/71191-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/71191"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198584</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-14T18:00:03</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7b24e1a3548c40c3b18d7e8f11273303">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71191/71191-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/71191"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71402</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-14T18:00:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N341a5933dd6f4059ac5c2e360ae84250">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9ce8eb23ca65491a9a02b86336eb279d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71191/71191-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/71191"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">710295</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-14T18:00:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na1b8ef7fe6234c12ba869d3f50c02542">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3e8a4d9bf6524466b07a430c4aa371e8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="https://nl.wikipedia.org/wiki/Christiaan_Huygens">
+    <dcterms:description>nl.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Christiaan_Huygens">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nl.wikipedia.org/wiki/Constantijn_Huygens">
+    <dcterms:description>nl.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Constantijn_Huygens">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

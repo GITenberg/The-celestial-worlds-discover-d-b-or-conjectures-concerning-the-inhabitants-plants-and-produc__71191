@@ -1,0 +1,55 @@
+_repo: The-celestial-worlds-discover-d-b-or-conjectures-concerning-the-inhabitants-plants-and-produc__71191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huygens, Christiaan
+    aliases:
+    - Huyghens, Christian
+    - Zuylichem, Christian Huygens van
+    - Hugenius, Christianus
+    - Huygens, Christianus
+    - Zuilichemius, Christianus Hugenius
+    - Hugens, Christian
+    birthdate: 1629
+    deathdate: 1695
+    gutenberg_agent_id: '5648'
+    url: http://www.gutenberg.org/2009/agents/5648
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Christiaan_Huygens
+    - https://nl.wikipedia.org/wiki/Christiaan_Huygens
+  editor:
+    agent_name: Huygens, Constantijn
+    aliases:
+    - Hvigens, Constantyn
+    - Huigens, H. C. (H. Constantijn)
+    - Hujgens, Constantin
+    - Huygens, Konstantyn
+    - Huygens, Constantijn, Heer van Zuilichem
+    birthdate: 1596
+    deathdate: 1687
+    gutenberg_agent_id: '3780'
+    url: http://www.gutenberg.org/2009/agents/3780
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Constantijn_Huygens
+    - https://en.wikipedia.org/wiki/Constantijn_Huygens
+description: ''
+gutenberg_issued: '2023-07-14'
+identifiers:
+  gutenberg: '71191'
+language: en
+pgterms:marc904: https://archive.org/details/b30537009_0001/page/n3/mode/2up
+pgterms:marc905: 20201021114216huygens
+pgterms:marc906: '1722'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJames Knapton, $c1722.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The celestial worlds discover''d : $b or, conjectures concerning the inhabitants,
+  plants and productions of the worlds in the planets'
+url: http://www.gutenberg.org/ebooks/71191
