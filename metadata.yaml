@@ -1,5 +1,8 @@
 _repo: The-celestial-worlds-discover-d-b-or-conjectures-concerning-the-inhabitants-plants-and-produc__71191
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71191-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Huygens, Christiaan
@@ -33,6 +36,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Constantijn_Huygens
     - https://en.wikipedia.org/wiki/Constantijn_Huygens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71191#The-celestial-worlds-discover-d-b-or-conjectures-concerning-the-inhabitants-plants-and-produc_
 gutenberg_issued: '2023-07-14'
 identifiers:
   gutenberg: '71191'
